@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  appTitle: 'NG App (beta)'
+  appTitle: 'NG app (dev)'
 };
